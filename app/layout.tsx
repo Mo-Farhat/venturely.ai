@@ -55,7 +55,7 @@ const workSans = localFont({
 })
 
 export const metadata: Metadata = {
-  title: "Pitchify",
+  title: "Venturely.ai",
   description: "Pitch your startup for investors",
 };
 
